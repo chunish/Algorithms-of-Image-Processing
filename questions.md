@@ -1,4 +1,4 @@
-## strcpy函数的编写
+## 1. strcpy函数的编写
 
 ```c
 char *strcpy(char* dst,const char* src)
@@ -12,11 +12,11 @@ char *strcpy(char* dst,const char* src)
 
 ```
 
-## string 类的编写
+## 2. string 类的编写
 
 
 
-## 构造函数与析构函数
+## 3. 构造函数与析构函数
 
 > 构造函数：
 
