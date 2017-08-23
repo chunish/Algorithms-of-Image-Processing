@@ -1,4 +1,4 @@
-  ## strcpy函数的编写
+## strcpy函数的编写
 
 ```c
 char *strcpy(char* dst,const char* src)
@@ -16,6 +16,7 @@ char *strcpy(char* dst,const char* src)
 
 
 ## 构造函数与析构函数
+
 > 构造函数：
 . 与类同名，进行初始化工作
 . 一个类中可以有多个构造函数，
