@@ -32,3 +32,15 @@ char *strcpy(char* dst,const char* src)
 * 名字同类名，但前加~
 * 一个类只允许有一个析构函数
 * 不能有参数，无返回值（包括void）
+
+
+## 内存的分配：mallco, free, new, delete等的使用
+用于申请动态内存和释放内存
+> mallco/free
+* 
+
+
+
+## 枚举的使用：enum/typedef enum
+
+
