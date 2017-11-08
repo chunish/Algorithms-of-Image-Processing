@@ -1,5 +1,5 @@
-关于TensorFlow的一些名词概念
-架构：client sessions master worker
+**关于TensorFlow的一些名词概念**
+   架构：client sessions master worker
 - tensor
 - session
 - Variable
