@@ -1,3 +1,18 @@
+### 关于Tensorflow的一些基本格式问题
+
+1. 常量： tf.constan()
+2. 变量： tf.Variable()
+3. Session: tf.Session()/InteractiveSession
+4. loss_function
+5. Cross_Entropy
+6. 优化算法
+7. 全局参数初始化
+8. 进行迭代训练
+9. 模型准确率进行检验
+
+
+
+
 
 #### 通过Tensorflow 实现SoftMax Regression识别手写数字
 
